@@ -1,0 +1,11 @@
+2024-09-08 16:38:06,641 - aiogram.dispatcher - INFO - Start polling
+2024-09-08 16:38:07,113 - aiogram.dispatcher - INFO - Run polling for bot @coders_jizzax_1_bot id=6799931798 - 'Coders'
+2024-09-08 16:38:16,511 - aiogram.event - INFO - Update id=600857434 is handled. Duration 781 ms by bot id=6799931798
+2024-09-08 16:38:24,393 - aiogram.event - INFO - Update id=600857435 is not handled. Duration 0 ms by bot id=6799931798
+2024-09-08 16:38:41,473 - aiogram.dispatcher - INFO - Polling stopped
+2024-09-08 16:38:41,725 - aiogram.dispatcher - INFO - Polling stopped for bot @coders_jizzax_1_bot id=6799931798 - 'Coders'
+2024-09-08 16:38:45,231 - aiogram.dispatcher - INFO - Start polling
+2024-09-08 16:38:45,701 - aiogram.dispatcher - INFO - Run polling for bot @coders_jizzax_1_bot id=6799931798 - 'Coders'
+2024-09-08 16:38:51,614 - aiogram.event - INFO - Update id=600857436 is handled. Duration 2828 ms by bot id=6799931798
+2024-09-08 16:38:54,247 - aiogram.dispatcher - INFO - Polling stopped
+2024-09-08 16:38:54,492 - aiogram.dispatcher - INFO - Polling stopped for bot @coders_jizzax_1_bot id=6799931798 - 'Coders'
